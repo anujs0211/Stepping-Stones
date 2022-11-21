@@ -1,0 +1,24 @@
+header{
+    width: 100%;
+    height: 80vh;
+    /* background:url(images/service-background.jpg) ; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center center; */
+	background-attachment: fixed;
+}
+#forms form {
+	 width: 65vw;
+	 background-image: linear-gradient(#03b1fc,#c6fc03);
+}
+#forms input{
+    
+	padding: 12px 20px;
+	margin: 8px;
+	background-color: #FFFFF0;
+	border-radius: 5%;
+
+}
+#forms a{
+	text-decoration: none;
+}

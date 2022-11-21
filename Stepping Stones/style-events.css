@@ -1,0 +1,11 @@
+*{
+	font: 1em Roboto;
+}
+header{
+	width: 100%;
+	height: 65vh;
+	background: url(Images/events-background.jpg);
+	background-position: center;
+	background-size: cover;
+    background-attachment: fixed;
+}
